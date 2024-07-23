@@ -1,0 +1,7 @@
+tonsdk
+aiogram==2.23.1
+aiohttp==3.9.0
+certifi==2021.10.8
+magic-filter==1.0.9
+Babel==2.9.1
+pytonconnect
